@@ -1,5 +1,4 @@
-# ARL
-Association rule learning project
+# Association Rule Learning
 
 ![image](https://user-images.githubusercontent.com/110662602/204373663-9495a3af-e905-4c43-bfed-a544da3feaa3.png)
 
